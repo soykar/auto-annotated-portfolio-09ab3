@@ -13,12 +13,13 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      ![Türk Yıldızı Logosu](/logo.png)
-
-      Türk Yıldızı Birliği
-    subtitle: >-
-      Dijital çağın rotasını biz çiziyoruz.
+    title: Türk Yıldızı Birliği
+    subtitle: Dijital çağın rotasını biz çiziyoruz.
+    image:
+      src: /logo.png
+      alt: Türk Yıldızı Logosu
+      width: 150
+      height: 150
     styles:
       self:
         height: auto
