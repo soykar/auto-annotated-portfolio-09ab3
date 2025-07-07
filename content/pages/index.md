@@ -15,11 +15,6 @@ sections:
     backgroundSize: full
     title: Türk Yıldızı Birliği
     subtitle: Dijital çağın rotasını biz çiziyoruz.
-    image:
-      src: /logo.png
-      alt: Türk Yıldızı Logosu
-      width: 150
-      height: 150
     styles:
       self:
         height: auto
@@ -36,6 +31,10 @@ sections:
           - pr-4
         flexDirection: row-reverse
         textAlign: left
+        backgroundImage: url('/logo.png')
+        backgroundRepeat: no-repeat
+        backgroundPosition: left center
+        backgroundSize: 150px auto
     type: HeroSection
     actions: []
   - colors: colors-f
