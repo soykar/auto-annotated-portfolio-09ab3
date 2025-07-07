@@ -15,7 +15,12 @@
                     "self": {
                         "height": "auto",
                         "width": "wide",
-                        "padding": ["pt-36", "pb-48", "pl-4", "pr-4"],
+                        "padding": [
+                            "pt-36",
+                            "pb-48",
+                            "pl-4",
+                            "pr-4"
+                        ],
                         "flexDirection": "row",
                         "textAlign": "left"
                     }
@@ -52,7 +57,12 @@
                     "self": {
                         "height": "auto",
                         "width": "wide",
-                        "padding": ["pt-36", "pb-48", "pl-4", "pr-4"],
+                        "padding": [
+                            "pt-36",
+                            "pb-48",
+                            "pl-4",
+                            "pr-4"
+                        ],
                         "flexDirection": "row",
                         "textAlign": "left"
                     }
@@ -89,8 +99,55 @@
                     "self": {
                         "height": "auto",
                         "width": "wide",
-                        "padding": ["pt-36", "pb-48", "pl-4", "pr-4"],
+                        "padding": [
+                            "pt-36",
+                            "pb-48",
+                            "pl-4",
+                            "pr-4"
+                        ],
                         "flexDirection": "row-reverse",
+                        "textAlign": "left"
+                    }
+                }
+            }
+        },
+        {
+            "label": "Hero with Türk Yıldızı Logo",
+            "thumbnail": "images/hero-primary-image-right.png",
+            "data": {
+                "colors": "colors-c",
+                "title": "Türk Yıldızı Birliği",
+                "subtitle": "Dijital çağın rotasını biz çiziyoruz.",
+                "text": null,
+                "media": {
+                    "type": "ImageBlock",
+                    "url": "/logo.png",
+                    "altText": "Türk Yıldızı Logosu"
+                },
+                "actions": [
+                    {
+                        "label": "Projelerimiz",
+                        "altText": "Projelerimize Git",
+                        "url": "/projects",
+                        "showIcon": true,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "primary",
+                        "elementId": "",
+                        "type": "Button"
+                    }
+                ],
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "wide",
+                        "padding": [
+                            "pt-36",
+                            "pb-48",
+                            "pl-4",
+                            "pr-4"
+                        ],
+                        "flexDirection": "row",
                         "textAlign": "left"
                     }
                 }
