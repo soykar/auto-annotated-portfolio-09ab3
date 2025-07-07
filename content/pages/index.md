@@ -14,6 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
+      ![Türk Yıldızı Logosu](/logo.png)
+
       Türk Yıldızı Birliği
     subtitle: >-
       Dijital çağın rotasını biz çiziyoruz.
